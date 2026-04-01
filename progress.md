@@ -504,3 +504,4 @@
 [2026-04-01 12:40:10 PM] Just showing up matters.
 [2026-04-01 06:38:35 PM] Small steps every day.
 [2026-04-01 06:38:35 PM] The habit of showing up wins the game.
+[2026-04-01 06:38:35 PM] Consistency is more important than intensity.
