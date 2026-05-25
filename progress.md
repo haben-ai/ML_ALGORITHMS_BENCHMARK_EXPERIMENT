@@ -581,3 +581,4 @@
 [2026-05-18 11:17:31 PM] Progress, not perfection.
 [2026-05-23 01:37:27 PM] Just showing up matters.
 [2026-05-23 10:11:14 PM] The habit of showing up wins the game.
+[2026-05-25 03:21:25 PM] Consistency is more important than intensity.
